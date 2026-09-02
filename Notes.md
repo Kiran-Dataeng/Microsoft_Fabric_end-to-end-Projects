@@ -19,7 +19,7 @@ Lakehouse
 
 Warehouse
 -----------
-**What it is: **
+**What it is:**
       A traditional, SQL-only relational data warehouse. No Spark, no notebooks — just structured tables and T-SQL, like a modern version of SQL Server or Synapse SQL pools.
 
 **Who uses it:**
