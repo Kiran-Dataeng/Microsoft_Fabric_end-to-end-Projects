@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Lakehouse",
+    "displayName": "LH_FINANCE_DEV"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "5024e4d9-fd76-ae9e-4fc0-53dd05a21baf"
+  }
+}
